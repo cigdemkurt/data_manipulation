@@ -42,7 +42,7 @@ print(outliers.head())
 
 print(data_Up[outliers])
 
-# there is no outlier value
+# there is no outlier value in Unit price column
 
 # if there are outlier values, the indexes could be accessed as follows
 #data_Up[outliers].index
